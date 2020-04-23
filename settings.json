@@ -1,0 +1,10 @@
+{
+    "editor.renderWhitespace": "all",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "prettier.printWidth": 100,
+    "prettier.tabWidth": 4
+}
